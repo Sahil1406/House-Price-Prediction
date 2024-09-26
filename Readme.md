@@ -1,6 +1,6 @@
 # House Price Prediction
 
-![House Price Prediction] <!-- Replace with an appropriate image link -->
+
 
 ## Overview
 
