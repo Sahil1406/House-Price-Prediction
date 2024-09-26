@@ -102,4 +102,4 @@ plt.scatter(Y_train, training_data_prediction)
 plt.xlabel = 'Actual Price'
 plt.ylabel = 'Predicted Price'
 plt.title = 'Actual Price vs Prediction Price'
-plt.show()
+# plt.show()
